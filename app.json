@@ -1,0 +1,6 @@
+{
+	"nome": "teste-heroku",
+	"description": "Teste HeroKU",
+	"repository": "https://git.heroku.com/teste-heroku-jennefer.git",
+	"addons": []
+}
